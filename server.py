@@ -142,11 +142,11 @@ def post_ask(req: AskRequest):
 
 def _async_reindex():
     try:
-        from pipeline_forge.rag.ingest import reset_store
+        from pipeline_forge.rag.ingest import reset_store, ensure_safe_rebuild
         reset_store()
-        ensure_index()
+        ensure_safe_rebuild()
     except Exception as err:
-        print(f"Background re-index error: {err}")
+        print(f"Background re-index error (non-fatal): {err}")
 
 
 @app.post("/api/upload")

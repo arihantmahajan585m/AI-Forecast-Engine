@@ -154,7 +154,20 @@ def get_retriever(k: int = 4):
     return vs.as_retriever(search_type="similarity", search_kwargs={"k": k})
 
 
-def reset_store() -> Chroma:
+def reset_store() -> None:
     global _VECTOR_STORE
+    import shutil
     _VECTOR_STORE = None
-    return build_vector_store(force_rebuild=True)
+    try:
+        shutil.rmtree(CHROMA_DIR, ignore_errors=True)
+    except Exception:
+        pass
+    CHROMA_DIR.mkdir(parents=True, exist_ok=True)
+
+
+def ensure_safe_rebuild() -> dict:
+    try:
+        vs = build_vector_store(force_rebuild=True)
+        return {"status": "ok", "chunks": len(vs.get().get("ids", []))}
+    except Exception as e:
+        return {"status": "error", "error": str(e)}
