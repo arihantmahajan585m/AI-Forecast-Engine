@@ -18,7 +18,7 @@ import pandas as pd
 
 from pipeline_forge.agents.graph import run_ask, run_deal_deep_dive, run_leadership_briefing
 from pipeline_forge.agents.tools import ALL_TOOLS, refresh_deals, validate_deals_frame
-from pipeline_forge.config import BACKTEST_HOLDOUT, DEALS_CSV, GROQ_API_KEY
+from pipeline_forge.config import BACKTEST_HOLDOUT, DEALS_CSV, GROQ_API_KEY, GROQ_MODEL
 from pipeline_forge.rag.retrieve import ensure_index
 from pipeline_forge.stats.forecast import forecast_closed_quarter_as_of, forecast_open_pipeline
 from pipeline_forge.stats.risk import compute_stage_avg_days, rank_at_risk, score_deal
