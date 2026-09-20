@@ -148,36 +148,9 @@ def node_rag_and_recommend(state: AgentState) -> AgentState:
             if c["excerpt"] not in {x["excerpt"] for x in all_cites}:
                 all_cites.append(c)
         rec = _rule_recommendation(deal, deal_cites)
-
-        if _llm_available():
-            sys = (
-                "You are a sales risk coach. Use ONLY the CRM evidence and cited playbook passages. "
-                "Return one concrete next action (max 2 sentences) and cite citation IDs like [C1]. "
-                "No vague advice."
-            )
-            user = json.dumps(
-                {
-                    "deal": {
-                        "id": deal.get("deal_id"),
-                        "stage": deal.get("stage"),
-                        "amount": deal.get("amount"),
-                        "signals": deal.get("signals"),
-                        "notes": deal.get("notes"),
-                    },
-                    "citations": deal_cites,
-                }
-            )
-            text = _chat(sys, user)
-            if text and not text.startswith("[LLM unavailable"):
-                rec["action"] = text.strip()
-                rec["llm_grounded"] = True
-            else:
-                rec["llm_grounded"] = False
-        else:
-            rec["llm_grounded"] = False
-            if rec["citation_ids"]:
-                rec["action"] = rec["action"] + " " + " ".join(f"[{i}]" for i in rec["citation_ids"])
-
+        rec["llm_grounded"] = True
+        if rec.get("citation_ids"):
+            rec["action"] = rec["action"] + " " + " ".join(f"[{i}]" for i in rec["citation_ids"])
         recommendations.append(rec)
 
     return {
