@@ -150,7 +150,7 @@ def _async_reindex():
 
 
 @app.post("/api/upload")
-async def upload_csv(background_tasks: BackgroundTasks, file: UploadFile = File(...)):
+async def upload_csv(file: UploadFile = File(...)):
     if not file.filename.endswith(".csv"):
         raise HTTPException(status_code=400, detail="Only CSV files are allowed.")
     contents = await file.read()
@@ -161,7 +161,6 @@ async def upload_csv(background_tasks: BackgroundTasks, file: UploadFile = File(
             raise HTTPException(status_code=400, detail=errs[0])
         custom_df.to_csv(DEALS_CSV, index=False)
         refresh_deals(custom_df)
-        background_tasks.add_task(_async_reindex)
         return {
             "status": "success",
             "message": f"Successfully loaded {len(custom_df)} deals from {file.filename}",
