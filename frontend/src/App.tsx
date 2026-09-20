@@ -4,11 +4,11 @@ import WelcomePage from './WelcomePage';
 import {
   TrendingUp, AlertTriangle, ShieldCheck, Play, RefreshCw, MessageSquare,
   Search, Award, CheckCircle2, ArrowUpRight, ArrowDownRight,
-  X, ChevronRight, Zap, UserCheck, DollarSign, Upload, Cpu, Database, Check
+  X, ChevronRight, UserCheck, DollarSign, Upload, Cpu, Database, Check
 } from 'lucide-react';
 import {
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell,
-  ScatterChart, Scatter, ZAxis, CartesianGrid
+  CartesianGrid
 } from 'recharts';
 
 const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8000/api';
@@ -435,7 +435,7 @@ export default function App() {
                     <YAxis tickFormatter={(v) => money(v)} stroke="#a1a1aa" fontSize={12} />
                     <Tooltip formatter={(v: any) => money(v as number)} contentStyle={{ background: '#09090b', borderColor: '#27272a', color: '#fafafa' }} />
                     <Bar dataKey="value" radius={[6, 6, 0, 0]}>
-                      {[0,1,2,3,4].map((entry, index) => (
+                      {[0,1,2,3,4].map((_, index) => (
                         <Cell key={`cell-${index}`} fill={['#71717a','#10b981','#3b82f6','#059669','#b85c2c'][index]} />
                       ))}
                     </Bar>
@@ -485,6 +485,13 @@ export default function App() {
               <h2 className="section-header-title">🔴 Deal Risk Cockpit & Investigation</h2>
               <div className="section-header-sub">Click any row to inspect stage overage, activity recency, and economic buyer signals</div>
             </div>
+
+            {riskLoading && (
+              <div className="loading-state">
+                <RefreshCw size={20} className="spin-icon" />
+                <span>Evaluating 6 risk signals across CRM deals...</span>
+              </div>
+            )}
 
             <div className="split-flex-container">
               {/* Left Main Table */}
