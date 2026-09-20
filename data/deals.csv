@@ -1,0 +1,201 @@
+deal_id,account,rep,stage,amount,actual_revenue,close_date,forecast_quarter,days_since_activity,engagement_score,has_economic_buyer,email_opens_14d,meetings_30d,stakeholders,notes,rep_forecast_amount,is_open
+D-2001,Snowflake Analytics Integration,Meera Nair,Closed Lost,311000,0,2/25/2026,2026-Q1,50,0.29,0,4,0,2,Executive champion resigned last week. Need urgent re-threading to new VP Product.,380000,0
+D-2002,Tata Consultancy Global IT,Ananya Shah,Closed Won,117000,117000,1/25/2026,2026-Q1,8,0.74,1,16,5,3,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,117000,0
+D-2003,Flipkart Q4 Big Billion Cloud,Arjun Verma,Closed Won,67000,67000,3/20/2026,2026-Q1,4,0.82,1,11,3,3,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,67000,0
+D-2004,Stripe Payments API Gateway,Vivek Rao,Closed Won,242000,242000,1/27/2026,2026-Q1,5,0.89,1,8,6,1,Executive champion resigned last week. Need urgent re-threading to new VP Product.,242000,0
+D-2005,Swiggy Delivery Routing Engine,Rahul Sharma,Closed Lost,39000,0,1/14/2026,2026-Q1,20,0.4,0,1,1,4,Executive champion resigned last week. Need urgent re-threading to new VP Product.,39000,0
+D-2006,Bharti Airtel 5G Core OSS,Arjun Verma,Closed Lost,290000,0,1/12/2026,2026-Q1,29,0.3,1,4,2,1,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,347000,0
+D-2007,Swiggy Delivery Routing Engine,Meera Nair,Closed Lost,394000,0,2/14/2026,2026-Q1,25,0.4,1,4,2,2,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,475000,0
+D-2008,Paytm Merchant Gateway Sync,Ishita Rao,Closed Lost,106000,0,1/27/2026,2026-Q1,37,0.19,0,3,0,5,Executive champion resigned last week. Need urgent re-threading to new VP Product.,98000,0
+D-2009,Amazon Web Services Migration,Ananya Shah,Closed Won,382000,382000,2/24/2026,2026-Q1,2,0.91,1,12,4,2,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,382000,0
+D-2010,Oracle Cloud Database Engine,Priya Patil,Closed Lost,198000,0,2/24/2026,2026-Q1,29,0.23,0,0,2,5,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,195000,0
+D-2011,Stripe Payments API Gateway,Neha Desai,Closed Lost,276000,0,1/19/2026,2026-Q1,52,0.32,0,2,0,3,Executive champion resigned last week. Need urgent re-threading to new VP Product.,312000,0
+D-2012,Flipkart Q4 Big Billion Cloud,Vivek Rao,Closed Lost,416000,0,2/13/2026,2026-Q1,27,0.17,1,0,0,3,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,406000,0
+D-2013,Snowflake Analytics Integration,Ananya Shah,Closed Lost,386000,0,3/27/2026,2026-Q1,53,0.3,0,1,1,3,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,459000,0
+D-2014,Wipro Cybersecurity Upgrade,Arjun Verma,Closed Lost,158000,0,3/20/2026,2026-Q1,37,0.21,0,1,0,4,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,191000,0
+D-2015,Amazon Web Services Migration,Arjun Verma,Closed Won,398000,398000,1/23/2026,2026-Q1,2,0.77,1,15,3,4,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,398000,0
+D-2016,Infosys AI Workstation Pilot,Meera Nair,Closed Lost,447000,0,1/24/2026,2026-Q1,35,0.17,1,0,2,3,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,536000,0
+D-2017,Cisco Unified Comms Modernize,Amit Kulkarni,Closed Lost,248000,0,1/16/2026,2026-Q1,40,0.15,0,4,0,2,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",233000,0
+D-2018,Bharti Airtel 5G Core OSS,Ishita Rao,Closed Lost,413000,0,3/26/2026,2026-Q1,20,0.28,0,4,2,2,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,502000,0
+D-2019,Oracle Cloud Database Engine,Meera Nair,Closed Lost,205000,0,1/13/2026,2026-Q1,26,0.3,1,3,0,1,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,249000,0
+D-2020,Bharti Airtel 5G Core OSS,Meera Nair,Closed Lost,348000,0,2/26/2026,2026-Q1,43,0.45,0,0,0,1,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,387000,0
+D-2021,MongoDB Atlas Migration,Karan Mehta,Closed Won,405000,405000,1/20/2026,2026-Q1,7,0.91,1,16,6,1,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,405000,0
+D-2022,Workday Global HRIS,Karan Mehta,Closed Lost,275000,0,1/18/2026,2026-Q1,28,0.27,0,3,1,1,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,271000,0
+D-2023,PwC Enterprise Assurance,Neha Desai,Closed Won,194000,194000,2/28/2026,2026-Q1,2,0.84,1,14,4,5,Executive champion resigned last week. Need urgent re-threading to new VP Product.,194000,0
+D-2024,Bosch Smart Mobility,Ananya Shah,Closed Lost,170000,0,1/21/2026,2026-Q1,37,0.17,0,1,2,4,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,204000,0
+D-2025,Sun Pharma R&D,Vivek Rao,Closed Won,153000,153000,1/15/2026,2026-Q1,3,0.72,1,15,6,4,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,153000,0
+D-2026,Okta Identity Cloud,Karan Mehta,Closed Lost,407000,0,3/25/2026,2026-Q1,43,0.33,0,1,2,3,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,397000,0
+D-2027,Cognizant Digital Core,Vivek Rao,Closed Lost,58000,0,2/21/2026,2026-Q1,18,0.18,1,3,1,5,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,53000,0
+D-2028,Okta Identity Cloud,Amit Kulkarni,Closed Lost,159000,0,2/13/2026,2026-Q1,22,0.38,0,0,2,5,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,186000,0
+D-2029,Atlassian Jira Enterprise,Arjun Verma,Closed Won,212000,212000,3/27/2026,2026-Q1,3,0.91,1,9,4,5,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,212000,0
+D-2030,ServiceNow ITOM Suite,Ishita Rao,Closed Lost,390000,0,2/15/2026,2026-Q1,55,0.37,0,0,0,5,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",358000,0
+D-2031,Deloitte Advisory Tech,Rohan Jain,Closed Won,325000,325000,1/14/2026,2026-Q1,7,0.85,1,11,3,1,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,325000,0
+D-2032,Bajaj Finserv Lending Core,Ananya Shah,Closed Lost,281000,0,2/25/2026,2026-Q1,26,0.24,0,1,1,1,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",302000,0
+D-2033,KPMG Global Consulting,Neha Desai,Closed Lost,326000,0,2/17/2026,2026-Q1,18,0.35,0,0,0,2,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,322000,0
+D-2034,Schneider Electric Grid,Sneha Joshi,Closed Lost,199000,0,1/28/2026,2026-Q1,39,0.43,0,3,1,3,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,189000,0
+D-2035,Box Content Cloud,Karan Mehta,Closed Lost,439000,0,2/15/2026,2026-Q1,18,0.42,0,0,2,3,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,419000,0
+D-2036,Shopify Plus Scale Engine,Ananya Shah,Closed Lost,142000,0,3/14/2026,2026-Q1,43,0.17,0,2,0,5,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,134000,0
+D-2037,IBM RedHat Openshift,Rahul Sharma,Closed Lost,216000,0,1/11/2026,2026-Q1,31,0.36,1,2,0,4,Executive champion resigned last week. Need urgent re-threading to new VP Product.,241000,0
+D-2038,Box Content Cloud,Ishita Rao,Closed Won,363000,363000,3/14/2026,2026-Q1,7,0.92,1,16,6,2,Executive champion resigned last week. Need urgent re-threading to new VP Product.,363000,0
+D-2039,Adani Green Energy,Amit Kulkarni,Closed Lost,423000,0,2/24/2026,2026-Q1,37,0.35,0,2,0,3,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,513000,0
+D-2040,Schneider Electric Grid,Ishita Rao,Closed Won,55000,55000,1/11/2026,2026-Q1,4,0.9,1,13,5,1,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,55000,0
+D-2041,MongoDB Atlas Migration,Vivek Rao,Closed Won,443000,443000,1/26/2026,2026-Q1,8,0.77,1,16,4,5,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,443000,0
+D-2042,KPMG Global Consulting,Karan Mehta,Closed Lost,87000,0,3/20/2026,2026-Q1,19,0.19,0,4,1,5,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,105000,0
+D-2043,Siemens Industrial IoT,Neha Desai,Closed Won,109000,109000,2/11/2026,2026-Q1,6,0.82,1,16,4,1,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,109000,0
+D-2044,Accenture Cloud First,Neha Desai,Closed Won,424000,424000,1/19/2026,2026-Q1,3,0.8,1,9,5,5,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,424000,0
+D-2045,Okta Identity Cloud,Amit Kulkarni,Closed Won,148000,148000,2/28/2026,2026-Q1,2,0.78,1,16,3,4,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,148000,0
+D-2046,Cloudflare Zero Trust SASE,Ananya Shah,Closed Lost,240000,0,3/13/2026,2026-Q1,39,0.26,1,3,0,3,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,285000,0
+D-2047,Shopify Plus Scale Engine,Rohan Jain,Closed Lost,72000,0,1/26/2026,2026-Q1,32,0.2,0,1,0,2,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,75000,0
+D-2048,Deloitte Advisory Tech,Sneha Joshi,Closed Won,272000,272000,3/15/2026,2026-Q1,3,0.74,1,12,5,1,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,272000,0
+D-2049,Schneider Electric Grid,Arjun Verma,Closed Lost,399000,0,3/11/2026,2026-Q1,29,0.16,0,4,2,4,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,479000,0
+D-2050,DocuSign India,Arjun Verma,Closed Won,306000,306000,1/16/2026,2026-Q1,2,0.89,1,16,4,4,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,306000,0
+D-2051,Microsoft Cloud Expansion,Rahul Sharma,Negotiation,850000,0,5/15/2026,2026-Q2,51,0.28,0,7,5,6,Economic buyer (CIO) skipped last 2 review calls. Stalled in legal for 32 days. Needs immediate executive sponsor escalation.,977000,1
+D-2052,Amazon Web Services Migration,Priya Patil,Proposal,1200000,0,4/13/2026,2026-Q2,8,0.89,1,9,1,5,Multi-threaded across 4 departments. Security review passed. Target close end of month.,1380000,1
+D-2053,Tata Consultancy Global IT,Amit Kulkarni,Discovery,650000,0,5/15/2026,2026-Q2,32,0.31,0,11,6,4,Economic buyer (CIO) skipped last 2 review calls. Stalled in legal for 32 days. Needs immediate executive sponsor escalation.,748000,1
+D-2054,Reliance Digital Infrastructure,Sneha Joshi,Negotiation,920000,0,5/13/2026,2026-Q2,11,0.83,1,3,1,5,Multi-threaded across 4 departments. Security review passed. Target close end of month.,1058000,1
+D-2055,Infosys AI Workstation Pilot,Karan Mehta,Proposal,480000,0,6/17/2026,2026-Q2,33,0.37,0,1,5,6,Economic buyer (CIO) skipped last 2 review calls. Stalled in legal for 32 days. Needs immediate executive sponsor escalation.,552000,1
+D-2056,HDFC Bank Core Banking Sync,Neha Desai,Discovery,750000,0,4/20/2026,2026-Q2,3,0.71,1,4,4,2,Multi-threaded across 4 departments. Security review passed. Target close end of month.,862000,1
+D-2057,Snowflake Analytics Integration,Vivek Rao,Negotiation,380000,0,4/17/2026,2026-Q2,4,0.69,1,8,5,5,Multi-threaded across 4 departments. Security review passed. Target close end of month.,437000,1
+D-2058,Stripe Payments API Gateway,Ananya Shah,Proposal,420000,0,6/21/2026,2026-Q2,4,0.93,1,13,1,3,Multi-threaded across 4 departments. Security review passed. Target close end of month.,483000,1
+D-2059,Salesforce CRM Data Pipeline,Rohan Jain,Discovery,550000,0,4/24/2026,2026-Q2,8,0.76,1,14,2,4,Multi-threaded across 4 departments. Security review passed. Target close end of month.,632000,1
+D-2060,Wipro Cybersecurity Upgrade,Meera Nair,Negotiation,320000,0,4/11/2026,2026-Q2,12,0.7,1,2,6,2,Multi-threaded across 4 departments. Security review passed. Target close end of month.,368000,1
+D-2061,Zomato Fleet Dispatch Optim,Arjun Verma,Proposal,220000,0,6/22/2026,2026-Q2,4,0.91,1,14,3,2,Multi-threaded across 4 departments. Security review passed. Target close end of month.,253000,1
+D-2062,Swiggy Delivery Routing Engine,Ishita Rao,Discovery,280000,0,4/27/2026,2026-Q2,3,0.91,1,2,4,5,Multi-threaded across 4 departments. Security review passed. Target close end of month.,322000,1
+D-2063,Flipkart Q4 Big Billion Cloud,Rahul Sharma,Negotiation,890000,0,4/25/2026,2026-Q2,48,0.26,0,6,2,4,Economic buyer (CIO) skipped last 2 review calls. Stalled in legal for 32 days. Needs immediate executive sponsor escalation.,1023000,1
+D-2064,Uber Enterprise Mobility API,Priya Patil,Proposal,460000,0,6/17/2026,2026-Q2,10,0.83,1,6,5,3,Multi-threaded across 4 departments. Security review passed. Target close end of month.,529000,1
+D-2065,Databricks Lakehouse Analytics,Amit Kulkarni,Discovery,510000,0,5/18/2026,2026-Q2,5,0.84,1,11,1,6,Multi-threaded across 4 departments. Security review passed. Target close end of month.,586000,1
+D-2066,Cisco Unified Comms Modernize,Sneha Joshi,Negotiation,640000,0,4/15/2026,2026-Q2,6,0.73,1,8,4,4,Multi-threaded across 4 departments. Security review passed. Target close end of month.,736000,1
+D-2067,Oracle Cloud Database Engine,Karan Mehta,Proposal,590000,0,5/13/2026,2026-Q2,11,0.91,1,13,4,4,Multi-threaded across 4 departments. Security review passed. Target close end of month.,678000,1
+D-2068,Paytm Merchant Gateway Sync,Neha Desai,Discovery,260000,0,5/17/2026,2026-Q2,8,0.75,1,7,3,3,Multi-threaded across 4 departments. Security review passed. Target close end of month.,299000,1
+D-2069,Bharti Airtel 5G Core OSS,Vivek Rao,Negotiation,780000,0,4/26/2026,2026-Q2,12,0.86,1,3,3,3,Multi-threaded across 4 departments. Security review passed. Target close end of month.,897000,1
+D-2070,Larsen & Toubro Smart Site,Ananya Shah,Proposal,610000,0,6/26/2026,2026-Q2,4,0.79,1,12,5,6,Multi-threaded across 4 departments. Security review passed. Target close end of month.,702000,1
+D-2071,Shopify Plus Scale Engine,Amit Kulkarni,Negotiation,196000,0,5/8/2026,2026-Q2,34,0.23,1,3,3,5,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,220000,1
+D-2072,Twilio SMS Trunking,Amit Kulkarni,Discovery,168000,0,4/22/2026,2026-Q2,35,0.48,1,8,0,5,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,188000,1
+D-2073,KPMG Global Consulting,Karan Mehta,Proposal,318000,0,6/24/2026,2026-Q2,1,0.33,1,1,1,1,Executive champion resigned last week. Need urgent re-threading to new VP Product.,356000,1
+D-2074,Twilio SMS Trunking,Karan Mehta,Proposal,277000,0,4/8/2026,2026-Q2,32,0.75,1,2,1,3,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,310000,1
+D-2075,Schneider Electric Grid,Rohan Jain,Proposal,341000,0,6/11/2026,2026-Q2,45,0.87,0,6,3,1,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,382000,1
+D-2076,Cognizant Digital Core,Neha Desai,Negotiation,285000,0,5/26/2026,2026-Q2,7,0.22,1,7,2,3,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,319000,1
+D-2077,Honeywell Aerospace Avionics,Amit Kulkarni,Proposal,92000,0,6/22/2026,2026-Q2,38,0.73,1,2,4,5,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,103000,1
+D-2078,Deloitte Advisory Tech,Ananya Shah,Negotiation,181000,0,6/28/2026,2026-Q2,8,0.58,1,0,1,3,Executive champion resigned last week. Need urgent re-threading to new VP Product.,203000,1
+D-2079,Bosch Smart Mobility,Ishita Rao,Negotiation,258000,0,5/28/2026,2026-Q2,18,0.42,1,11,4,4,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,289000,1
+D-2080,Box Content Cloud,Neha Desai,Proposal,217000,0,6/5/2026,2026-Q2,28,0.4,0,9,4,4,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,243000,1
+D-2081,Cloudflare Zero Trust SASE,Ananya Shah,Proposal,340000,0,6/24/2026,2026-Q2,34,0.48,0,0,0,1,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,381000,1
+D-2082,Shopify Plus Scale Engine,Sneha Joshi,Discovery,126000,0,4/1/2026,2026-Q2,15,0.24,1,7,2,5,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,141000,1
+D-2083,Cognizant Digital Core,Ananya Shah,Prospecting,209000,0,4/5/2026,2026-Q2,37,0.57,0,7,1,1,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,234000,1
+D-2084,Shopify Plus Scale Engine,Vivek Rao,Proposal,94000,0,6/17/2026,2026-Q2,3,0.72,0,1,5,2,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,105000,1
+D-2085,Box Content Cloud,Rohan Jain,Negotiation,176000,0,5/21/2026,2026-Q2,15,0.32,1,3,4,4,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",197000,1
+D-2086,Shopify Plus Scale Engine,Ananya Shah,Negotiation,188000,0,5/18/2026,2026-Q2,11,0.65,1,5,2,4,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,211000,1
+D-2087,Box Content Cloud,Meera Nair,Qualification,297000,0,5/7/2026,2026-Q2,27,0.24,0,7,0,1,Executive champion resigned last week. Need urgent re-threading to new VP Product.,333000,1
+D-2088,Accenture Cloud First,Arjun Verma,Discovery,231000,0,4/9/2026,2026-Q2,2,0.4,0,9,2,2,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,259000,1
+D-2089,KPMG Global Consulting,Ananya Shah,Proposal,319000,0,6/8/2026,2026-Q2,33,0.62,0,4,4,3,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,357000,1
+D-2090,Deloitte Advisory Tech,Sneha Joshi,Proposal,107000,0,4/5/2026,2026-Q2,4,0.45,0,8,2,3,Executive champion resigned last week. Need urgent re-threading to new VP Product.,120000,1
+D-2091,Capgemini Engineering Labs,Priya Patil,Prospecting,210000,0,6/19/2026,2026-Q2,9,0.35,0,6,3,1,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,235000,1
+D-2092,Shopify Plus Scale Engine,Rahul Sharma,Negotiation,205000,0,6/13/2026,2026-Q2,34,0.57,1,7,1,4,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,230000,1
+D-2093,Deloitte Advisory Tech,Ishita Rao,Prospecting,317000,0,4/15/2026,2026-Q2,45,0.86,1,0,1,5,Executive champion resigned last week. Need urgent re-threading to new VP Product.,355000,1
+D-2094,Bajaj Finserv Lending Core,Ananya Shah,Discovery,330000,0,6/27/2026,2026-Q2,38,0.27,0,0,5,1,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",370000,1
+D-2095,Capgemini Engineering Labs,Vivek Rao,Negotiation,227000,0,6/3/2026,2026-Q2,15,0.26,0,5,1,4,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,254000,1
+D-2096,Bajaj Finserv Lending Core,Neha Desai,Proposal,200000,0,6/14/2026,2026-Q2,12,0.26,0,12,4,1,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",224000,1
+D-2097,PwC Enterprise Assurance,Vivek Rao,Proposal,301000,0,6/26/2026,2026-Q2,45,0.37,1,5,5,1,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,337000,1
+D-2098,ABB Robotics Automation,Priya Patil,Proposal,223000,0,4/12/2026,2026-Q2,17,0.85,0,3,0,5,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,250000,1
+D-2099,Adani Green Energy,Rohan Jain,Discovery,311000,0,4/22/2026,2026-Q2,44,0.38,1,10,0,4,Executive champion resigned last week. Need urgent re-threading to new VP Product.,348000,1
+D-2100,IBM RedHat Openshift,Neha Desai,Discovery,329000,0,5/23/2026,2026-Q2,33,0.4,1,0,3,1,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,368000,1
+D-2101,KPMG Global Consulting,Amit Kulkarni,Negotiation,26000,0,5/10/2026,2026-Q2,17,0.58,0,5,1,4,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,29000,1
+D-2102,Cloudflare Zero Trust SASE,Neha Desai,Proposal,325000,0,4/12/2026,2026-Q2,43,0.75,1,10,1,3,Executive champion resigned last week. Need urgent re-threading to new VP Product.,364000,1
+D-2103,Adani Green Energy,Karan Mehta,Proposal,263000,0,6/21/2026,2026-Q2,9,0.28,1,8,3,3,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,295000,1
+D-2104,ICICI Securities Wealth,Ananya Shah,Prospecting,271000,0,4/28/2026,2026-Q2,6,0.86,0,0,0,3,Executive champion resigned last week. Need urgent re-threading to new VP Product.,304000,1
+D-2105,HubSpot RevOps Upgrade,Neha Desai,Proposal,119000,0,4/17/2026,2026-Q2,8,0.67,1,9,1,4,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,133000,1
+D-2106,PwC Enterprise Assurance,Priya Patil,Proposal,156000,0,5/8/2026,2026-Q2,8,0.81,0,8,2,5,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,175000,1
+D-2107,Accenture Cloud First,Vivek Rao,Negotiation,58000,0,4/5/2026,2026-Q2,19,0.83,1,6,0,4,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",65000,1
+D-2108,Accenture Cloud First,Vivek Rao,Discovery,353000,0,6/18/2026,2026-Q2,18,0.56,1,8,4,1,Executive champion resigned last week. Need urgent re-threading to new VP Product.,395000,1
+D-2109,ICICI Securities Wealth,Rahul Sharma,Negotiation,137000,0,5/26/2026,2026-Q2,19,0.55,1,8,2,3,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,153000,1
+D-2110,Shopify Plus Scale Engine,Arjun Verma,Negotiation,150000,0,6/12/2026,2026-Q2,43,0.36,1,7,0,4,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,168000,1
+D-2111,Cognizant Digital Core,Amit Kulkarni,Discovery,245000,0,4/12/2026,2026-Q2,5,0.25,1,2,0,5,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,274000,1
+D-2112,Honeywell Aerospace Avionics,Arjun Verma,Proposal,376000,0,4/27/2026,2026-Q2,6,0.72,0,1,1,4,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,421000,1
+D-2113,Mahindra Auto Telematics,Sneha Joshi,Proposal,335000,0,5/24/2026,2026-Q2,36,0.25,0,5,3,5,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,375000,1
+D-2114,Honeywell Aerospace Avionics,Arjun Verma,Discovery,248000,0,6/3/2026,2026-Q2,32,0.39,1,11,1,2,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,278000,1
+D-2115,Workday Global HRIS,Rahul Sharma,Prospecting,254000,0,6/6/2026,2026-Q2,13,0.59,0,3,3,5,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,284000,1
+D-2116,Capgemini Engineering Labs,Karan Mehta,Proposal,149000,0,6/14/2026,2026-Q2,22,0.21,0,5,0,4,Executive champion resigned last week. Need urgent re-threading to new VP Product.,167000,1
+D-2117,Cloudflare Zero Trust SASE,Rohan Jain,Qualification,288000,0,6/24/2026,2026-Q2,26,0.58,1,5,3,3,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,323000,1
+D-2118,Capgemini Engineering Labs,Ishita Rao,Qualification,202000,0,4/14/2026,2026-Q2,40,0.74,1,2,1,3,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,226000,1
+D-2119,Deloitte Advisory Tech,Arjun Verma,Proposal,194000,0,4/25/2026,2026-Q2,30,0.46,1,2,2,1,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,217000,1
+D-2120,Workday Global HRIS,Rahul Sharma,Discovery,43000,0,6/5/2026,2026-Q2,41,0.78,1,1,3,1,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,48000,1
+D-2121,Shopify Plus Scale Engine,Amit Kulkarni,Qualification,272000,0,4/16/2026,2026-Q2,18,0.61,1,11,1,2,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,305000,1
+D-2122,Mahindra Auto Telematics,Rohan Jain,Negotiation,44000,0,6/26/2026,2026-Q2,22,0.35,0,8,1,3,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,49000,1
+D-2123,Bosch Smart Mobility,Rohan Jain,Prospecting,113000,0,6/1/2026,2026-Q2,25,0.63,1,4,0,4,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,127000,1
+D-2124,Capgemini Engineering Labs,Sneha Joshi,Qualification,180000,0,5/11/2026,2026-Q2,15,0.4,1,7,3,4,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,202000,1
+D-2125,Deloitte Advisory Tech,Ishita Rao,Discovery,47000,0,5/18/2026,2026-Q2,12,0.81,1,12,0,4,Executive champion resigned last week. Need urgent re-threading to new VP Product.,53000,1
+D-2126,Cognizant Digital Core,Priya Patil,Discovery,191000,0,4/9/2026,2026-Q2,27,0.39,0,1,0,4,Executive champion resigned last week. Need urgent re-threading to new VP Product.,214000,1
+D-2127,Cloudflare Zero Trust SASE,Priya Patil,Discovery,171000,0,5/26/2026,2026-Q2,16,0.68,0,5,5,2,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,192000,1
+D-2128,Honeywell Aerospace Avionics,Ishita Rao,Discovery,190000,0,4/14/2026,2026-Q2,34,0.43,0,4,0,3,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,213000,1
+D-2129,Box Content Cloud,Neha Desai,Qualification,285000,0,4/23/2026,2026-Q2,24,0.6,1,9,4,5,Executive champion resigned last week. Need urgent re-threading to new VP Product.,319000,1
+D-2130,Capgemini Engineering Labs,Arjun Verma,Proposal,232000,0,4/28/2026,2026-Q2,5,0.85,0,9,4,2,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,260000,1
+D-2131,Capgemini Engineering Labs,Ananya Shah,Proposal,313000,0,6/10/2026,2026-Q2,16,0.27,1,2,3,1,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,351000,1
+D-2132,Siemens Industrial IoT,Vivek Rao,Qualification,378000,0,5/27/2026,2026-Q2,23,0.28,1,0,2,5,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,423000,1
+D-2133,Sun Pharma R&D,Vivek Rao,Qualification,265000,0,4/17/2026,2026-Q2,24,0.89,1,4,0,4,Executive champion resigned last week. Need urgent re-threading to new VP Product.,297000,1
+D-2134,DocuSign India,Vivek Rao,Discovery,99000,0,6/20/2026,2026-Q2,7,0.51,0,4,2,5,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,111000,1
+D-2135,Cloudflare Zero Trust SASE,Arjun Verma,Negotiation,48000,0,5/19/2026,2026-Q2,45,0.56,0,2,5,5,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,54000,1
+D-2136,Cognizant Digital Core,Karan Mehta,Discovery,52000,0,4/14/2026,2026-Q2,14,0.46,0,6,1,3,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,58000,1
+D-2137,Atlassian Jira Enterprise,Karan Mehta,Qualification,235000,0,6/19/2026,2026-Q2,29,0.9,0,10,2,4,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,263000,1
+D-2138,Box Content Cloud,Sneha Joshi,Qualification,344000,0,4/23/2026,2026-Q2,5,0.25,0,1,5,3,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,385000,1
+D-2139,Deloitte Advisory Tech,Rohan Jain,Discovery,361000,0,6/24/2026,2026-Q2,43,0.57,1,2,3,3,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,404000,1
+D-2140,ServiceNow ITOM Suite,Rahul Sharma,Discovery,366000,0,5/8/2026,2026-Q2,25,0.41,1,2,3,4,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,410000,1
+D-2141,Mahindra Auto Telematics,Rahul Sharma,Qualification,291000,0,5/21/2026,2026-Q2,35,0.84,1,8,0,5,Executive champion resigned last week. Need urgent re-threading to new VP Product.,326000,1
+D-2142,Schneider Electric Grid,Arjun Verma,Proposal,204000,0,5/3/2026,2026-Q2,16,0.57,0,7,0,2,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,228000,1
+D-2143,Siemens Industrial IoT,Neha Desai,Discovery,276000,0,4/10/2026,2026-Q2,28,0.86,0,11,1,4,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,309000,1
+D-2144,Atlassian Jira Enterprise,Rahul Sharma,Qualification,355000,0,5/4/2026,2026-Q2,23,0.87,0,12,3,4,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",398000,1
+D-2145,ICICI Securities Wealth,Vivek Rao,Prospecting,159000,0,4/7/2026,2026-Q2,18,0.37,0,1,3,2,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",178000,1
+D-2146,Atlassian Jira Enterprise,Meera Nair,Negotiation,168000,0,4/14/2026,2026-Q2,6,0.48,1,0,4,4,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,188000,1
+D-2147,Honeywell Aerospace Avionics,Karan Mehta,Discovery,245000,0,6/18/2026,2026-Q2,45,0.31,0,3,0,1,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",274000,1
+D-2148,GitLab DevSecOps,Priya Patil,Proposal,357000,0,6/16/2026,2026-Q2,29,0.28,1,7,1,1,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",400000,1
+D-2149,Accenture Cloud First,Ishita Rao,Proposal,268000,0,5/15/2026,2026-Q2,23,0.74,0,11,5,4,Executive champion resigned last week. Need urgent re-threading to new VP Product.,300000,1
+D-2150,GitLab DevSecOps,Sneha Joshi,Proposal,240000,0,6/26/2026,2026-Q2,31,0.47,1,11,3,1,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,269000,1
+D-2151,Zoom Video Enterprise,Amit Kulkarni,Proposal,283000,0,5/5/2026,2026-Q2,27,0.45,0,0,0,4,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,317000,1
+D-2152,Okta Identity Cloud,Meera Nair,Negotiation,84000,0,4/4/2026,2026-Q2,28,0.64,1,11,5,4,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,94000,1
+D-2153,GitLab DevSecOps,Ananya Shah,Discovery,93000,0,4/14/2026,2026-Q2,18,0.6,1,10,5,3,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,104000,1
+D-2154,Workday Global HRIS,Rahul Sharma,Qualification,241000,0,5/12/2026,2026-Q2,41,0.9,1,6,5,4,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,270000,1
+D-2155,Okta Identity Cloud,Rohan Jain,Qualification,40000,0,5/20/2026,2026-Q2,6,0.44,0,1,1,3,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,45000,1
+D-2156,Cognizant Digital Core,Neha Desai,Proposal,159000,0,4/23/2026,2026-Q2,7,0.67,1,12,0,4,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,178000,1
+D-2157,HubSpot RevOps Upgrade,Priya Patil,Discovery,372000,0,4/24/2026,2026-Q2,45,0.4,0,9,0,5,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,417000,1
+D-2158,HubSpot RevOps Upgrade,Karan Mehta,Negotiation,359000,0,4/1/2026,2026-Q2,43,0.88,0,1,1,1,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,402000,1
+D-2159,Bajaj Finserv Lending Core,Amit Kulkarni,Qualification,218000,0,5/28/2026,2026-Q2,36,0.32,0,0,3,3,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",244000,1
+D-2160,Mahindra Auto Telematics,Arjun Verma,Discovery,256000,0,4/12/2026,2026-Q2,24,0.77,0,1,0,4,Executive champion resigned last week. Need urgent re-threading to new VP Product.,287000,1
+D-2161,ICICI Securities Wealth,Neha Desai,Negotiation,154000,0,8/1/2026,2026-Q3,16,0.35,0,1,4,2,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,172000,1
+D-2162,IBM RedHat Openshift,Rahul Sharma,Proposal,372000,0,8/13/2026,2026-Q3,37,0.89,0,2,1,1,Executive champion resigned last week. Need urgent re-threading to new VP Product.,417000,1
+D-2163,Mahindra Auto Telematics,Amit Kulkarni,Proposal,79000,0,9/22/2026,2026-Q3,21,0.66,1,12,4,3,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,88000,1
+D-2164,PwC Enterprise Assurance,Rahul Sharma,Proposal,38000,0,8/13/2026,2026-Q3,28,0.31,0,9,0,4,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,43000,1
+D-2165,Cloudflare Zero Trust SASE,Karan Mehta,Discovery,187000,0,7/23/2026,2026-Q3,45,0.21,1,5,0,1,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,209000,1
+D-2166,ICICI Securities Wealth,Sneha Joshi,Discovery,97000,0,8/7/2026,2026-Q3,39,0.86,0,10,5,3,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,109000,1
+D-2167,ICICI Securities Wealth,Arjun Verma,Negotiation,167000,0,8/10/2026,2026-Q3,44,0.75,1,4,0,2,Competitive bake-off against Clari. High stakeholder engagement across 4 departments. Proposal in final approval.,187000,1
+D-2168,Cognizant Digital Core,Amit Kulkarni,Proposal,292000,0,8/11/2026,2026-Q3,18,0.9,0,4,1,4,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,327000,1
+D-2169,Workday Global HRIS,Vivek Rao,Proposal,143000,0,7/24/2026,2026-Q3,39,0.81,1,12,0,3,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,160000,1
+D-2170,Twilio SMS Trunking,Ishita Rao,Negotiation,224000,0,7/9/2026,2026-Q3,18,0.81,1,11,2,4,Executive champion resigned last week. Need urgent re-threading to new VP Product.,251000,1
+D-2171,HubSpot RevOps Upgrade,Ananya Shah,Discovery,303000,0,7/16/2026,2026-Q3,30,0.79,0,3,1,3,Executive champion resigned last week. Need urgent re-threading to new VP Product.,339000,1
+D-2172,Adani Green Energy,Sneha Joshi,Discovery,63000,0,9/6/2026,2026-Q3,3,0.37,0,10,5,4,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,71000,1
+D-2173,MongoDB Atlas Migration,Rohan Jain,Discovery,306000,0,8/14/2026,2026-Q3,39,0.47,1,0,1,4,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,343000,1
+D-2174,Siemens Industrial IoT,Ishita Rao,Discovery,56000,0,9/22/2026,2026-Q3,14,0.24,0,3,3,4,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,63000,1
+D-2175,Atlassian Jira Enterprise,Arjun Verma,Proposal,318000,0,7/22/2026,2026-Q3,7,0.36,1,0,5,3,Executive champion resigned last week. Need urgent re-threading to new VP Product.,356000,1
+D-2176,GitLab DevSecOps,Neha Desai,Proposal,302000,0,8/10/2026,2026-Q3,15,0.54,1,9,5,3,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,338000,1
+D-2177,GitLab DevSecOps,Neha Desai,Proposal,50000,0,7/4/2026,2026-Q3,8,0.53,1,9,5,4,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,56000,1
+D-2178,Cloudflare Zero Trust SASE,Ishita Rao,Discovery,108000,0,7/27/2026,2026-Q3,23,0.84,0,0,5,1,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,121000,1
+D-2179,Box Content Cloud,Vivek Rao,Proposal,245000,0,7/21/2026,2026-Q3,18,0.35,0,3,3,5,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,274000,1
+D-2180,Sun Pharma R&D,Ananya Shah,Discovery,213000,0,9/12/2026,2026-Q3,41,0.58,1,2,3,1,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,239000,1
+D-2181,Cognizant Digital Core,Meera Nair,Discovery,279000,0,9/13/2026,2026-Q3,11,0.88,0,9,2,3,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",312000,1
+D-2182,Zoom Video Enterprise,Amit Kulkarni,Prospecting,40000,0,9/11/2026,2026-Q3,16,0.88,1,0,1,3,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,45000,1
+D-2183,Capgemini Engineering Labs,Rahul Sharma,Proposal,151000,0,7/9/2026,2026-Q3,13,0.67,0,2,3,1,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,169000,1
+D-2184,Schneider Electric Grid,Rahul Sharma,Prospecting,201000,0,8/27/2026,2026-Q3,6,0.44,1,4,5,3,Stalled in legal for 32 days over data residency indemnification clause. Needs executive sponsor escalation.,225000,1
+D-2185,Cloudflare Zero Trust SASE,Meera Nair,Negotiation,259000,0,9/23/2026,2026-Q3,19,0.33,0,9,4,1,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,290000,1
+D-2186,Bosch Smart Mobility,Ananya Shah,Discovery,375000,0,8/28/2026,2026-Q3,20,0.76,1,10,4,5,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",420000,1
+D-2187,HubSpot RevOps Upgrade,Rohan Jain,Qualification,82000,0,7/21/2026,2026-Q3,6,0.6,1,9,0,1,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,92000,1
+D-2188,Deloitte Advisory Tech,Rahul Sharma,Negotiation,221000,0,7/23/2026,2026-Q3,35,0.28,1,11,1,3,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,248000,1
+D-2189,Sun Pharma R&D,Karan Mehta,Proposal,180000,0,9/24/2026,2026-Q3,2,0.56,1,11,3,4,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,202000,1
+D-2190,Capgemini Engineering Labs,Ananya Shah,Discovery,209000,0,7/1/2026,2026-Q3,24,0.21,0,4,3,1,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,234000,1
+D-2191,DocuSign India,Rohan Jain,Proposal,374000,0,7/8/2026,2026-Q3,32,0.28,0,1,0,3,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,419000,1
+D-2192,Sun Pharma R&D,Ishita Rao,Prospecting,34000,0,9/28/2026,2026-Q3,15,0.71,1,1,1,5,Multi-threaded across 5 stakeholders. Security review signed off. High confidence close.,38000,1
+D-2193,Schneider Electric Grid,Arjun Verma,Prospecting,120000,0,9/28/2026,2026-Q3,25,0.23,0,1,1,5,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,134000,1
+D-2194,KPMG Global Consulting,Amit Kulkarni,Proposal,323000,0,9/10/2026,2026-Q3,19,0.82,0,4,4,3,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,362000,1
+D-2195,Box Content Cloud,Vivek Rao,Discovery,165000,0,8/2/2026,2026-Q3,19,0.22,1,3,5,3,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,185000,1
+D-2196,IBM RedHat Openshift,Neha Desai,Discovery,126000,0,7/14/2026,2026-Q3,2,0.24,0,10,5,5,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",141000,1
+D-2197,DocuSign India,Vivek Rao,Proposal,69000,0,8/22/2026,2026-Q3,39,0.83,0,7,5,3,Economic buyer (CIO) skipped last 2 review calls. Champion is VP Engineering. Legal review pending.,77000,1
+D-2198,Sun Pharma R&D,Ishita Rao,Qualification,308000,0,7/23/2026,2026-Q3,8,0.62,0,8,0,5,POC validated with 99.8% SLA. Technical win confirmed. Waiting on CFO sign-off.,345000,1
+D-2199,ServiceNow ITOM Suite,Neha Desai,Proposal,332000,0,9/3/2026,2026-Q3,17,0.3,1,11,0,3,"Contract sent for signature, but procurement has paused new software onboarding pending quarterly budget freeze.",372000,1
+D-2200,ABB Robotics Automation,Vivek Rao,Proposal,195000,0,9/25/2026,2026-Q3,29,0.4,1,12,1,5,Budget approved in FY26 OPEX. Contract redlines with outside counsel.,218000,1

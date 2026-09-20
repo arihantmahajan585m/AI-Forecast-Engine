@@ -1,0 +1,16 @@
+{
+  "n_deals": 200,
+  "n_open": 140,
+  "n_closed": 60,
+  "stage_win_rates": {
+    "Prospecting": 0.12,
+    "Qualification": 0.22,
+    "Discovery": 0.38,
+    "Proposal": 0.52,
+    "Negotiation": 0.68,
+    "Closed Won": 1.0,
+    "Closed Lost": 0.0
+  },
+  "as_of": "2026-03-31",
+  "backtest_holdout_quarter": "2026-Q1"
+}

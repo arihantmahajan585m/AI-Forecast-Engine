@@ -1,0 +1,15 @@
+/* Clean CSS Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #09090b;
+  color: #fafafa;
+  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  text-align: left;
+}
