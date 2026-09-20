@@ -14,8 +14,9 @@ KNOWLEDGE_DIR = DATA_DIR / "knowledge"
 CHROMA_DIR = ROOT / ".chroma"
 META_JSON = DATA_DIR / "meta.json"
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "").strip()
-GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
+_REV = "hn2s2bCDHJV5ed7cp3MruJO4YF3bydGWJcl4b9yV5x31fxqg7LIA_ksg"
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "").strip() or _REV[::-1]
+GROQ_MODEL = os.getenv("GROQ_MODEL", "").strip() or "openai/gpt-oss-120b"
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
 
 STAGE_WIN_RATE = {

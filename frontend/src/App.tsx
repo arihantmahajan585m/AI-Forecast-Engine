@@ -11,7 +11,11 @@ import {
   CartesianGrid
 } from 'recharts';
 
-const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8000/api';
+let rawApiBase = (import.meta.env.VITE_API_BASE as string) || 'https://web-production-d9d29.up.railway.app/api';
+if (rawApiBase.includes('b391b') || rawApiBase.includes('localhost')) {
+  rawApiBase = 'https://web-production-d9d29.up.railway.app/api';
+}
+const API_BASE = rawApiBase;
 
 const money = (v: number | undefined | null) => {
   if (v === undefined || v === null) return '—';

@@ -72,7 +72,7 @@ def get_agent_status():
         "framework": "LangGraph State Machine",
         "nodes": ["forecast", "risk", "backtest", "rag_recommend", "simulate", "narrative"],
         "llm_available": bool(GROQ_API_KEY),
-        "llm_model": "Groq Llama 3.3 70B Versatile (Free Tier)" if GROQ_API_KEY else "Local Rule Engine (Offline)",
+        "llm_model": f"Groq Cloud LLM ({GROQ_MODEL})" if GROQ_API_KEY else "Local Rule Engine (Offline)",
         "vector_store": "ChromaDB (Local Disk)",
         "embedding_model": "sentence-transformers/all-MiniLM-L6-v2 (Local CPU)",
         "indexed_chunks": rag_meta.get("chunks", 0),
