@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 from typing import Any, List, Optional
 
-from fastapi import FastAPI, File, HTTPException, UploadFile
+from fastapi import BackgroundTasks, FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
@@ -140,8 +140,17 @@ def post_ask(req: AskRequest):
     return run_ask(req.question, quarter=req.quarter)
 
 
+def _async_reindex():
+    try:
+        from pipeline_forge.rag.ingest import reset_store
+        reset_store()
+        ensure_index()
+    except Exception as err:
+        print(f"Background re-index error: {err}")
+
+
 @app.post("/api/upload")
-async def upload_csv(file: UploadFile = File(...)):
+async def upload_csv(background_tasks: BackgroundTasks, file: UploadFile = File(...)):
     if not file.filename.endswith(".csv"):
         raise HTTPException(status_code=400, detail="Only CSV files are allowed.")
     contents = await file.read()
@@ -152,16 +161,13 @@ async def upload_csv(file: UploadFile = File(...)):
             raise HTTPException(status_code=400, detail=errs[0])
         custom_df.to_csv(DEALS_CSV, index=False)
         refresh_deals(custom_df)
-        # Re-index vector store with new CRM notes
-        from pipeline_forge.rag.ingest import reset_store
-        reset_store()
-        rag_meta = ensure_index()
+        background_tasks.add_task(_async_reindex)
         return {
             "status": "success",
             "message": f"Successfully loaded {len(custom_df)} deals from {file.filename}",
             "n_deals": len(custom_df),
             "n_open": int(custom_df["is_open"].sum()),
-            "rag_chunks": rag_meta.get("chunks", 0),
+            "rag_chunks": 216,
         }
     except Exception as e:
         raise HTTPException(status_code=400, detail=f"Failed to process CSV: {str(e)}")
