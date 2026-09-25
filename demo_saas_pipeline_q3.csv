@@ -1,0 +1,26 @@
+deal_id,account,rep,stage,amount,actual_revenue,close_date,forecast_quarter,days_since_activity,engagement_score,has_economic_buyer,email_opens_14d,meetings_30d,stakeholders,notes,rep_forecast_amount,is_open
+D-3001,Google Cloud Platform,Arjun Mehta,Negotiation,1500000,,2026-09-15,2026-Q3,8,0.82,1,14,5,6,VP Engineering signed off. Legal review in final stage.,1500000,1
+D-3002,Meta Enterprise AI,Sneha Rao,Proposal,980000,,2026-09-30,2026-Q3,17,0.44,0,3,1,2,Champion is strong but CFO not yet engaged. Budget freeze risk.,1200000,1
+D-3003,Netflix Data Infra,Vikram Singh,Negotiation,870000,,2026-09-20,2026-Q3,5,0.78,1,11,4,5,SOW drafted. Procurement approval pending one signature.,870000,1
+D-3004,Uber Global Ops,Priya Kapoor,Proposal,760000,,2026-10-10,2026-Q3,22,0.35,0,2,0,1,No meeting in 30 days. Technical champion went silent after demo.,900000,1
+D-3005,Spotify Analytics,Rahul Desai,Discovery,540000,,2026-10-15,2026-Q3,14,0.61,1,8,3,4,Strong product fit. Awaiting internal champion to schedule exec review.,700000,1
+D-3006,Airbnb Revenue Cloud,Arjun Mehta,Negotiation,1100000,,2026-09-25,2026-Q3,6,0.85,1,16,6,7,Deal on track. Commercial terms finalized. Signature expected this week.,1100000,1
+D-3007,Twitter/X Infrastructure,Sneha Rao,Proposal,430000,,2026-10-20,2026-Q3,25,0.28,0,1,0,1,Account went cold. Org changes created new budget holder—uncontacted.,600000,1
+D-3008,LinkedIn Talent Solutions,Vikram Singh,Discovery,620000,,2026-10-30,2026-Q3,11,0.68,1,9,3,4,ROI business case presented. VP HR engaged and supportive.,750000,1
+D-3009,Zoom Enterprise Suite,Priya Kapoor,Proposal,490000,,2026-10-05,2026-Q3,19,0.42,0,4,1,2,Champion left company. New contact not yet mapped.,580000,1
+D-3010,Slack Workflow Automation,Rahul Desai,Negotiation,680000,,2026-09-28,2026-Q3,4,0.91,1,18,7,6,Best deal of quarter. Champion very engaged. Minor legal edits only.,680000,1
+D-3011,Dropbox Enterprise DLP,Arjun Mehta,Discovery,380000,,2026-11-01,2026-Q3,9,0.72,1,7,3,3,Discovery complete. Technical win confirmed. Moving to proposal stage.,450000,1
+D-3012,Twilio Communications,Sneha Rao,Proposal,520000,,2026-10-12,2026-Q3,13,0.58,1,6,2,4,Strong use case. Evaluating vs competitor. Decision expected in 3 weeks.,650000,1
+D-3013,HubSpot CRM Expansion,Vikram Singh,Negotiation,710000,,2026-09-22,2026-Q3,7,0.79,1,12,5,5,Expansion deal on existing account. Legal fast-track requested.,710000,1
+D-3014,Shopify Plus Commerce,Priya Kapoor,Discovery,340000,,2026-11-10,2026-Q3,21,0.31,0,2,0,1,Initial interest only. Budget not confirmed. Needs multi-thread.,400000,1
+D-3015,Databricks Lakehouse,Rahul Desai,Proposal,890000,,2026-10-08,2026-Q3,10,0.74,1,10,4,5,Technical POC passed. Board-level sponsor confirmed. Strong close probability.,950000,1
+D-3016,Snowflake AI Pipeline,Arjun Mehta,Negotiation,950000,,2026-09-18,2026-Q3,3,0.88,1,15,6,6,Verbal close confirmed. Waiting on PO from procurement.,950000,1
+D-3017,MongoDB Atlas Scale,Sneha Rao,Proposal,460000,,2026-10-25,2026-Q3,16,0.47,0,3,1,2,Engaged only with devs. Need to get to VP Engineering.,550000,1
+D-3018,Cloudflare Zero Trust,Vikram Singh,Discovery,390000,,2026-11-05,2026-Q3,12,0.63,1,7,2,3,Security review triggered by CISO. Good timing—aligns with budget cycle.,480000,1
+D-3019,Okta Identity Platform,Priya Kapoor,Negotiation,830000,,2026-09-30,2026-Q3,5,0.83,1,13,5,5,Compliance requirement driving urgency. Strong economic buyer.,830000,1
+D-3020,Confluent Kafka Streams,Rahul Desai,Proposal,570000,,2026-10-18,2026-Q3,18,0.39,0,2,1,2,Engineering champion strong but no EB mapped. Budget cycle ends Oct 31.,680000,1
+D-3021,Datadog Observability,Arjun Mehta,Negotiation,740000,,2026-09-26,2026-Q3,4,0.87,1,14,6,6,Multi-year deal. Legal approved. Final pricing confirmation pending.,740000,1
+D-3022,New Relic APM Suite,Sneha Rao,Discovery,310000,,2026-11-15,2026-Q3,23,0.27,0,1,0,1,Early stage. Only one contact. No exec visibility yet.,400000,1
+D-3023,PagerDuty Ops Cloud,Vikram Singh,Proposal,420000,,2026-10-22,2026-Q3,15,0.55,1,6,2,3,On-site demo completed successfully. Proposal under review by IT Director.,500000,1
+D-3024,HashiCorp Vault Secrets,Priya Kapoor,Negotiation,660000,,2026-09-24,2026-Q3,6,0.81,1,11,4,4,Security deal with mandated timeline. Procurement expediting.,660000,1
+D-3025,Grafana Labs Platform,Rahul Desai,Discovery,280000,,2026-11-20,2026-Q3,11,0.64,0,5,2,2,Open source migration project. Budget approval needed from DevOps Director.,350000,1
