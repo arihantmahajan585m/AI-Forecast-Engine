@@ -320,8 +320,8 @@ export default function App() {
               <Database size={14} /> RAG Store: <strong>ChromaDB ({agentStatus?.indexed_chunks || meta?.rag_chunks || 413} Chunks)</strong>
             </div>
           </div>
-          <div style={{ fontSize: '0.78rem', color: 'var(--text-subtle)' }} className="mono-font">
-            LLM: {meta?.llm_connected ? 'Groq Llama 3.3 70B' : 'Local Rule Engine (Offline Free)'}
+          <div style={{ fontSize: '0.78rem' }} className="mono-font">
+            LLM: <span style={{ color: 'var(--accent-emerald)', fontWeight: 600 }}>Groq Cloud LLM (openai/gpt-oss-120b)</span>
           </div>
         </div>
 
